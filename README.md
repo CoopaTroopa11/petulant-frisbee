@@ -1,2 +1,3 @@
 # petulant-frisbee
-My first attempt at creating a repository
+This is my first attempt at creating a repository.  Here I will learn about coding.
+
